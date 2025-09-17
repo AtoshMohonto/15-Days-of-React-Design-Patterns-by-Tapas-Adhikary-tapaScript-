@@ -1,0 +1,2 @@
+# 15-Days-of-React-Design-Patterns-by-Tapas-Adhikary-tapaScript-
+Why?1. Why React apps often suffer from code smells (prop drilling, bloated components, duplication, performance issues). 2. How to apply 15 essential React design patterns that solve real-world problems.3. Refactoring techniques to make your code clean, reusable, and future-proof.4.Modern React best practices using functional components and hooks 
