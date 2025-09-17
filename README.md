@@ -9,3 +9,7 @@ This series is your step-by-step guide to writing clean, scalable, and maintaina
 	•	How to apply 15 essential React design patterns that solve real-world problems.
 	•	Refactoring techniques to make your code clean, reusable, and future-proof.
 	•	Modern React best practices using functional components and hooks.
+By the end of this 15-day journey, you’ll:
+✅ Understand React design patterns inside-out.
+✅ Be able to spot and fix code smells in your projects.
+✅ Write React like a pro — with cleaner architecture and maintainable code.
